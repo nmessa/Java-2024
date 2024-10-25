@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>ZipCode</label>
+	</settings>
+	<users>
+		<user>
+			<path>ZipCode.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>ZipCode.jcp</path>
+		</project>
+	</projects>
+</workspace>
