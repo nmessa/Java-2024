@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>PigTester</label>
+	</settings>
+	<users>
+		<user>
+			<path>PigTester.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>PigTester.jcp</path>
+		</project>
+	</projects>
+</workspace>
